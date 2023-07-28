@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer || UI Designer || Project Manager
 ----------------------------------------------------
 
-I'm excited using technology to develop solutions that increase effectiveness, improve user experiences, and address challenging issues. I'm continuously learning new things.I am most passionate about developing software solutions that have a beneficial influence on people's lives. I'm dedicated to creating user-centered software with clear interfaces, , I can create a responsive website which it is user friendly. I work to produce software that adds value and improves the lives of its users by concentrating on user needs and incorporating feedback.
+I'm excited to use technology to develop solutions that increase effectiveness, improve user experiences, and address challenging issues. I'm continuously learning new things. I am most passionate about developing software solutions that have a beneficial influence on people's lives. I'm dedicated to creating user-centered software with clear interfaces, I can create a responsive website which it is user-friendly. I work to produce software that adds value and improves the lives of its users by concentrating on user needs and incorporating feedback.
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [nsaruwawasi@gmail.com](mailto:nsaruwawasi@gmail.com )
